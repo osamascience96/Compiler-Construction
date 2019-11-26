@@ -1,0 +1,14 @@
+int main(){
+   
+   // variables
+   int a = 10;
+   int b = 20;
+   
+   // adding expression
+   int sum = a + b;
+   
+   // display the statement and sum
+   std::cout << "Compiler Construction" << std::endl;
+   
+   std::cout << sum << std::endl;
+}
